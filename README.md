@@ -14,7 +14,7 @@ Your character will fend off hoards of zombies with items he finds on the street
 
 The project was meant as a means to try SFML, and implement graphics, animation and sound with time, a viewport, etc. The emphasis was not as concerned with optimization, so it does use fairly arbitrary art and audio file sizes, standard variable memory allocations, and makes up to 32 draw calls per frame. (not great, but at least zombie hoard draw sorting was cleverly mitigated)
 
-Thank you to unknown composers and artists who supplied the art and sound for this game, which I freely admit stealing for this game programming exercise. (thank you, don't sue)
+Thank you to unknown composers and artists who supplied the art and sound for this game, which I freely admit stealing and modifying for this game programming exercise. (thank you, don't sue)
 
 ## Primary Features
 * Music and SFX
