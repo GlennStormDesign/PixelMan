@@ -1,7 +1,6 @@
 # Pixel Man
 
-[image goes here]
-[PixelMan](http://hotironproductions.com/pixelman/image/pmcpp.png?raw=true "PixelMan")
+![PixelMan](http://hotironproductions.com/pixelman/image/pmcpp.png?raw=true "PixelMan")
 
 C++ SFML 2D Zombie Apocalypse Shooter in an old-school arcade style
 
