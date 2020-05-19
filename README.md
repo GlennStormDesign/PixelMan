@@ -2,7 +2,7 @@
 
 [image goes here]
 
-C++ / SFML 2D Zombie Apocalypse Shooter in an old-school arcade style
+C++ SFML 2D Zombie Apocalypse Shooter in an old-school arcade style
 
 ## Try it
 [Download .zip Windows Game]
