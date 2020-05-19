@@ -5,7 +5,7 @@
 C++ SFML 2D Zombie Apocalypse Shooter in an old-school arcade style
 
 ## Try it
-[Download .zip Windows Game](http://hotironproductions.com/pixelman/doc/Pixel%20Man%20Game.zip)
+[Download .zip Windows Game](/PixelMan%20Development/Pixel%20Man%20Game.zip)
 
 ## What Up?
 I've been making games with code for over three decades, and since 2009, working with C# (in unity). So, while learning C++ (and before that C) has been challenging in the past, since Sept 2019, I've been able to get past major hurdles and get down to it.
