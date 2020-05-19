@@ -17,7 +17,7 @@ The project was meant as a means to try SFML, and implement graphics, animation 
 Thank you to unknown composers and artists who supplied the art and sound for this game, which I freely admit stealing and modifying for this game programming exercise. (thank you, don't sue)
 
 ## Primary Features
-* Music and SFX
+* SFX and Music
 * Viewport and HUD
 * Graphics and Animation
 * Weapons and Projectiles
